@@ -11,7 +11,7 @@ Design Tool for diagrams: https://www.draw.io
 Code standard:
             HTML, CSS , BOOTSRAP ,Python , Javascripts, PHP
 
-WEB FARMEWORK: DJANGO
+Web Framework: DJANGO
 
 Database:
              SQLITE3

@@ -9,7 +9,7 @@ Web Server used : Pythonanywhere.com(https://www.pythonanywhere.com)
 Design Tool for diagrams: https://www.draw.io
 
 Code standard:
-            HTML, CSS , BOOTSRAP ,PYTHON
+            HTML, CSS , BOOTSRAP ,Python , Javascripts
 
 WEB FARMEWORK: DJANGO
 
